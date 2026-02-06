@@ -14,8 +14,12 @@ The goal is to identify and characterise **large scale patterns on the sky**, wi
 focus on the dipole signal arising from the acceleration of the Solar System and global
 rotation effects.
 
-The methods are developed in the context of my MSc thesis in relativistic and
-real time cosmology.
+The methods implemented in this repository are developed in the context of my MSc thesis
+and the associated research paper:
+
+**Position Drift with Gaia**  
+Andreas Tsigkas Kouvelis, Asta Heinesen, Shashank Shalgar, Mikołaj Korzyński  
+[arXiv:2508.02810](https://arxiv.org/abs/2508.02810) [astro-ph.CO] (submitted to JCAP)
 
 ---
 
