@@ -105,7 +105,7 @@ This repository can be read in two ways.
 It demonstrates Bayesian modelling of astrometric data, vector field inference on the
 sphere, and uncertainty aware parameter estimation.
 
-**For industry and data science readers**  
+**For data science readers**  
 It demonstrates SQL based data selection, construction of custom likelihoods, handling
 correlated uncertainties, and reproducible statistical analysis in Python.
 
