@@ -10,6 +10,8 @@ Only the data selection, binning, and posterior summarization are handled here.
 
 The input DataFrame `df` is assumed to already exist and must contain:
 ra, dec, pmra, pmdec, pmra_error, pmdec_error, pmra_pmdec_corr, redshift_qsoc.
+
+We applied the same bin-and-fit procedure to G magnitude bins by replacing redshift_qsoc with phot_g_mean_mag and using magnitude bin edges.
 """
 
 
